@@ -1,2 +1,2 @@
 # todo-app
-A simple todo app to oragnize your daily task.
+A simple todo app written in react native to oragnize your daily task.
